@@ -2,7 +2,7 @@
   "clientes": {
     "COP-01-PDF-EDIT-V1": {
       "estado": "ACTIVO",
-      "vencimiento": "2026-12-31",
+      "vencimiento": "2027-12-31",
       "hardware_id": "a1b2c3d4e5f6"
     },
     "CLIENTE-EMPRESA-B": {
